@@ -1,0 +1,20 @@
+--- Data Quality Summary Report ---
+
+1. Missing Values:
+   No missing values detected.
+2. Duplicate Rows:
+   Number of duplicate rows: 1177
+
+3. Outliers Detected:
+   fixed acidity: 357 outlier(s)
+   volatile acidity: 377 outlier(s)
+   citric acid: 509 outlier(s)
+   residual sugar: 118 outlier(s)
+   chlorides: 286 outlier(s)
+   free sulfur dioxide: 62 outlier(s)
+   total sulfur dioxide: 10 outlier(s)
+   density: 3 outlier(s)
+   pH: 73 outlier(s)
+   sulphates: 191 outlier(s)
+   alcohol: 3 outlier(s)
+   quality: 228 outlier(s)
